@@ -176,7 +176,7 @@ Recorded during a 48-minute continuous sedentary session:
 
 ## 11. Demo and Contact
 
-A demonstration video is available on YouTube (link TBD — add your YouTube link to this section).
+A demonstration video is available on YouTube ((https://youtube.com/shorts/03es3QKW4cc?feature=share)).
 
 For questions, contact the lead developer:
 
