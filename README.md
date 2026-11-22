@@ -1,6 +1,6 @@
 # Engagement
 
-An Android app that streams live biometric data from a Garmin wearable to a computer via [Lab Streaming Layer (LSL)](https://labstreaminglayer.org/) using PyLSL. Built for research use.
+An Android app that streams live biometric data from a Garmin wearable to a computer via [Lab Streaming Layer (LSL)](https://labstreaminglayer.org/) using PyLSL. Built for research use. First described in: Garmin Wearables for Real-time Cognitive State Assessment in Game play via Engagement and Lab Streaming Layer
 
 > **PyLSL setup guidance is available upon request** — contact info below.
 
