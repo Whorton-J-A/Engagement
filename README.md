@@ -162,7 +162,7 @@ To share the log:
 
 ## 10. Estimated Data Frequencies
 
-Recorded during a 48-minute continuous sedentary session:
+Recorded during a 45-minute continuous sedentary session:
 
 | Stream | Unit | Est. Rate | Mean Interval | Median Interval | Samples (45 min) |
 |---|---|---|---|---|---|
